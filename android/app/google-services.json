@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244698971869",
+    "project_id": "ag-art-shop",
+    "storage_bucket": "ag-art-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244698971869:android:998357a8e5fa5e96976534",
+        "android_client_info": {
+          "package_name": "com.example.ag_art_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244698971869-7me8gi3shoig2l4f05bt96hmdtntee2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDobIFjPYcuf8nVQYDD5oRxQdDs602mM_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244698971869-7me8gi3shoig2l4f05bt96hmdtntee2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
